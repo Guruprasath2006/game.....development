@@ -8,7 +8,7 @@
 
 ## ALGORITHM
 
-1.Launch Adobe Flash and Create a New Document
+1. Launch Adobe Flash and Create a New Document
    Open Adobe Flash and start a new ActionScript 3.0 file. Set the stage dimensions (e.g., 550x400 px) and frame rate (commonly 24 fps).
 
 2. Set Stage Properties
